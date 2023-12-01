@@ -1,0 +1,40 @@
+---
+title: "36-315 Project - Rollercoaster, Fall 2022"
+author: "Claudia Lyu, Ivana Lin, Lingruo Pan, Megha Koshy"
+date: "Due Monday, December 12 (12:00pm)"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    code_folding: show
+  pdf_document:
+    toc: yes
+urlcolor: blue
+---
+
+##  Homework 05:  Comparing Distributions with Density Estimates and Statistical Tests
+
+***General instructions for all assignments***: 
+
+
+
+***
+***
+
+#  Problem 1: How Tests Can Complement Graphical Comparisons, and Vice Versa (55 points)
+
+In this problem, we will again work with the red wine dataset from Homework4. Here's the code to read in this dataset:
+```{r, warning = FALSE, message = FALSE}
+library(tidyverse)
+rollercoaster <- read.csv("https://www.kaggle.com/datasets/nolanbconaway/rollercoaster-tycoon-rides?resource=download&select=rollercoasters.csv")
+```
+
+As a reminder, help documentation for this dataset is available [here](https://raw.githubusercontent.com/zjbranson/315Fall2022/master/wineQualityInfo.txt) for reference.
+
+***
+***
+
+
+
+
+
